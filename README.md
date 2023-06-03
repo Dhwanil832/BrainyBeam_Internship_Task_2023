@@ -20,11 +20,11 @@ This repository contains various data science tasks assigned to us for Data Scie
 Each task is implemented as a separate Python script, and the required datasets (if applicable) are provided in the repository. To run a specific task, follow the instructions provided in the respective script's comments.
 
 Make sure you have the necessary dependencies installed by running:
-numpy==1.21.0
-pandas==1.3.0
-matplotlib==3.4.2
-scikit-learn==0.24.2
-seaborn==0.11.1
+ - numpy==1.21.0
+ - pandas==1.3.0
+ - matplotlib==3.4.2
+ - scikit-learn==0.24.2
+ - seaborn==0.11.1
 
 
 ## Contributions
